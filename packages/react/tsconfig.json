@@ -1,4 +1,4 @@
 {
-  "extends": "@ignitecall-ui-designsystem/ts-config/base.json",
+  "extends": "@ignitecall-ui-designsystem/ts-config/react.json",
   "include": ["src"]
 }
