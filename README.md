@@ -51,4 +51,3 @@ Nesse projeto, desenvolvi uma aplicação para estudar Design System. Apesar de 
 - Documentação de cores e tokens
     
 Esse projeto foi baseado nas aulas do curso da <a href="https://www.rocketseat.com.br/">Rocketseat🔗</a>.
-## Getting Started
