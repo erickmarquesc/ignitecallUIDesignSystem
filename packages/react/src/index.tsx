@@ -4,5 +4,5 @@ export * from './components/Heading';
 export * from './components/Avatar/Avatar';
 export * from './components/Button';
 export * from './components/TextInput/index';
-
-
+export * from './components/TextArea';
+export * from './components/CheckBox/index';
