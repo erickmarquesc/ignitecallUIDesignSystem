@@ -8,6 +8,17 @@ export default {
     src: 'https://github.com/erickmarquesc.png',
     alt: 'Avatar'
   },
+  argTypes: {
+    src: {
+      description: 'Url da imagem',
+      control: {
+        type: 'text',
+      },
+    },
+    alt:{
+      description:'Texto alternativo',
+    }
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {};

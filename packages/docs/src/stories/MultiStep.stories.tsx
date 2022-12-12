@@ -8,6 +8,16 @@ export default {
     size: 4,
     currentSep: 1,
   },
+  argTypes:{
+    size:{
+      name: 'Passos',
+      description: 'Quantidade de passos a serem realizados',
+    },
+    currentSep:{
+      name: 'Passos realizados',
+      description: 'Quantidade de passos já realizados'
+    }
+  },
   decorators: [
     (Story) => {
       return (

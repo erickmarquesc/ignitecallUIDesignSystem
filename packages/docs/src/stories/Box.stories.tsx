@@ -9,7 +9,22 @@ export default {
       <>
         <Text>Testando elemento Box</Text>
       </>
-    )
+    ),
+    backgroundColor: '#202024', 
+  },
+  argTypes: {
+    children: {
+      description: 'Esse elemento é apenas o box',
+      control: {
+        type: null,
+      },
+    },
+    backgroundColor: {
+      description: 'Cor de fundo do box | variavel $gray800',
+      control:{
+        type: 'color'
+      }
+    },
   },
 } as Meta<BoxProps>
 
