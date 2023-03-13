@@ -7,3 +7,5 @@ export * from './components/Avatar/Avatar';
 export * from './components/CheckBox/index';
 export * from './components/TextInput/index';
 export * from './components/MultiStep/index';
+export * from './components/Toast';
+export * from './components/Tooltip/index';
