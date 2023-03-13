@@ -1,0 +1,2 @@
+import{A as t}from"./index.06c82c46.js";import"./index.76ef0ba6.js";import"./iframe.65d1bd3e.js";import"./index.835fccb0.js";import"./jsx-runtime.3d1ae954.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/erickmarquesc.png",alt:"Avatar"},argTypes:{src:{description:"Url da imagem",control:{type:"text"}},alt:{description:"Texto alternativo"}}},c={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,p as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.1ac840c4.js.map
